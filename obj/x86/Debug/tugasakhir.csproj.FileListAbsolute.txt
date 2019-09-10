@@ -1,0 +1,249 @@
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+E:\#PKMKC\tugas akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+E:\#PKMKC\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+H:\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+H:\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+H:\Latihan Tugas Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\db_kopi.accdb
+H:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe.config
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe.config
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\db_kopi.accdb
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+E:\Latihan_Tugas_ Akhir\tugas_akhir\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form5.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\db_kopi.accdb
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe.config
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form5.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+H:\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\db_kopi.accdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe.config
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form5.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\Latihan_Tugas_ Akhir\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\db_kopi.accdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe.config
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form5.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form6.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Controls.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Controls.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\db_kopi.accdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe.config
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.exe
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\tugasakhir.pdb
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Math.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.dll
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Controls.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Imaging.Formats.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Math.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\bin\Debug\AForge.Video.DirectShow.xml
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csprojResolveAssemblyReference.cache
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form1.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form2.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form3.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form4.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form5.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Form6.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.Properties.Resources.resources
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.csproj.GenerateResource.Cache
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.exe
+D:\POLITEKNIK NEGERI JEMBER\TUGAS AKHIR\REFERENSI\APLIKASI\INI PENTING SEKALI\tugas_akhir2\tugasakhir\tugasakhir\obj\x86\Debug\tugasakhir.pdb
